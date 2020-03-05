@@ -28,3 +28,6 @@
 ***chupalo julissa***
 ## palabra tachada
 ~Chupalooooo~
+
+## otro link
+[Para chuparlo] (https://elcodigoascii.com.ar/)
