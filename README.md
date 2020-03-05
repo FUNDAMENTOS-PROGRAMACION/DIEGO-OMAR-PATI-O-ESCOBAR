@@ -25,9 +25,13 @@
 *desnucalo*
 
 ## cursiva y negritas
-***chupalo julissa***
+*** julissa***
+
 ## palabra tachada
 ~Chupalooooo~
 
 ## otro link
-[Para chuparlo](https://elcodigoascii.com.ar/)
+[Jorgito](https://www.youtube.com/watch?v=vUzzwVH2AsU)
+
+## imagenes
+![este es jorgito](https://i.ytimg.com/vi/vUzzwVH2AsU/maxresdefault.jpg)
