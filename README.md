@@ -26,3 +26,5 @@
 
 ## cursiva y negritas
 ***chupalo julissa***
+## palabra tachada
+~Chupalooooo~
