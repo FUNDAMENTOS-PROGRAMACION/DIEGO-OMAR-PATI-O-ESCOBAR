@@ -16,3 +16,10 @@
 3. Estas
 4. ?
 5. Chupaloooooooooooooo y desnucaloooooooooooooo
+
+## Negritas
+**Hola**
+**Chupalo**
+
+## Cursiva
+*desnucalo*
