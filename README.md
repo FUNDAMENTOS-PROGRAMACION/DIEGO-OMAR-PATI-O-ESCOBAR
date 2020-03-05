@@ -5,7 +5,14 @@
 ##### h5
 <h1> html </h1>
 
-## Listas no ordenadaa
+## Listas no ordenadas
 - Diego
 - Holi
    - Jorgito el Guayaco   
+
+## Listas ordenadas
+1. Hola
+2. Como 
+3. Estas
+4. ?
+5. Chupaloooooooooooooo y desnucaloooooooooooooo
