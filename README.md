@@ -30,4 +30,4 @@
 ~Chupalooooo~
 
 ## otro link
-[Para chuparlo] (https://elcodigoascii.com.ar/)
+[Para chuparlo](https://elcodigoascii.com.ar/)
