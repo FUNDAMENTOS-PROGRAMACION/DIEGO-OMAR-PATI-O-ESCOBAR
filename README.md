@@ -35,3 +35,8 @@
 
 ## imagenes
 ![este es jorgito](https://i.ytimg.com/vi/vUzzwVH2AsU/maxresdefault.jpg)
+
+## pegar codigo
+```javascript
+var a=1
+```
