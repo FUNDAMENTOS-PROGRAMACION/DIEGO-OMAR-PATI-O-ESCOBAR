@@ -23,7 +23,7 @@ public class PrimerProyecto {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        String cad = "Hello world ";
+        String cad = "Hello world ";//imprimir algo
         System.out.println(cad);
         imprimirNombre();
         
@@ -31,7 +31,28 @@ public class PrimerProyecto {
        
     }
      public static void imprimirNombre (){
-         System.out.println("Fundamentos");
+         System.out.println("Diego \n Patiño");//salto de linea e imprimir 
+         System.out.println("Die \t go");//tabulador espacio 
+         //
+                  
+         String nombre="   Diego Patiño";
+         System.out.println(nombre.trim());
+         
+         String Nombre="Diego Patiño";
+         System.out.println(Nombre.length());
+         
+         String NOMBRE="Diego Patiño";
+         System.out.println(NOMBRE.toUpperCase());
+         
+         String Name="DIEGO PATIÑO";
+         System.out.println(Name.toLowerCase());
+         String nombrE="   Diego Patiño";
+         System.out.println(nombre.replace(nombrE, "Gorjito el Guayaco"));
+         
+         String N="DIEGO PATIÑO";
+         System.out.println(N.split("3"));
+         
+
          }
      
      public static int sumar2numeros (int num1, int num2){
